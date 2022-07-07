@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'BoxSizeService'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18D8834A3D684584A9C0C533F6E1B083 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00DBE0AD11294010877A2EF4CD8B0B3D }}
